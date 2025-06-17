@@ -1,55 +1,36 @@
-# 👋 Hi, I'm Praveen Soni
+# 👋 Hi, I’m Praveen
 
-🚒 **Data & Systems Analyst | Fire Rescue Operations | Geospatial | AI/ML**
+I help operations-heavy teams solve real-world problems with **data, automation, and practical AI**.
 
-I specialize in the intersection of **data, technology, and public safety**, particularly in the **fire rescue services** sector. With deep experience in fire department operations, I build intelligent systems that enhance emergency response, optimize resource allocation, and support strategic planning.
-
----
-
-## 🔍 Areas of Focus
-
-- 📊 **Fire Rescue Data Analytics**  
-  Performance data, CAD/RMS systems, response time analysis, resource planning, unit utilization
-
-- 🧠 **AI & Machine Learning in Emergency Services**  
-  Predictive dispatch, incident clustering, NLP for incident reports, data chat bots for fire chiefs
-
-- 🌍 **Geospatial Intelligence**  
-  GIS for station placement, heat maps, drive-time isochrones, wildfire risk mapping
-
-- 🛠️ **Technology Modernization**  
-  Data pipelines, BI dashboards, RESTful API integration, AI Integration with existing apps and system
+By day, I lead digital modernization efforts in fire and emergency services. On the side, I run [Emberlytic](https://emberlytic.com) — a part-time consulting practice focused on turning messy workflows into scalable systems.
 
 ---
 
-## 🚧 Projects Coming Soon
+## 🧠 What I Build
+This GitHub is a living lab where I publish:
 
-I'll soon be sharing open-source projects like:
+- 🔧 **Automation tools** — low-code and scripting examples (AutoHotkey, Power Automate, n8n)
+- 📊 **Ops-focused dashboards** — R, SQL, and reporting prototypes
+- 🤖 **AI use case demos** — lightweight GPT-driven experiments for frontline and municipal use
+- 🔧 **Tools for Emergency Services** — tools and proof of concepts for emergency services
+- 🧱 **Homelab + systems infrastructure** — projects running on Proxmox, Docker, and GCP
 
-- 🔥 **Fire Department Analytics Dashboard** 
-- 📍 **Fire Station Optimization with GIS & ML**  
-- 🤖 **Incident Report NLP Classifier**  
+Most of these repos are open, messy, and evolving — just like real systems work.
 
 ---
 
-## 📫 Connect with Me
+## 🔍 Featured Projects
+- [`n8n-ops-notifier`](https://github.com/supersonic04/n8n-fire-notifier) – alerts and automated workflows for frontline updates  
+  
+More coming soon.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/psoni-strtg/)
+---
 
-Let's build a safer, smarter future for emergency services 🚨
+## 📫 Let’s Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/praveen-soni-ai)  
+- 🌍 [Emberlytic](https://emberlytic.com)  
+- ✉️ Open to collaboration, feedback, or coffee-chat invites.
 
+---
 
-<!--
-**supersonic04/supersonic04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Systems thinker. Problem solver. Builder of quiet tools that make work easier._
