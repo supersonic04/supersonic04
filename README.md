@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Praveen
+## 👋 Hi, I’m Praveen
 
 I help operations-heavy teams solve real-world problems with **data, automation, and practical AI**.
 
@@ -6,31 +6,33 @@ By day, I lead digital modernization efforts in fire and emergency services. On 
 
 ---
 
-## 🧠 What I Build
-This GitHub is a living lab where I publish:
+## 🧠 What You'll Find Here
 
-- 🔧 **Automation tools** — low-code and scripting examples (AutoHotkey, Power Automate, n8n)
-- 📊 **Ops-focused dashboards** — R, SQL, and reporting prototypes
-- 🤖 **AI use case demos** — lightweight GPT-driven experiments for frontline and municipal use
-- 🔧 **Tools for Emergency Services** — tools and proof of concepts for emergency services
-- 🧱 **Homelab + systems infrastructure** — projects running on Proxmox, Docker, and GCP
+This GitHub is my working lab — where I share ideas in progress, not just polished code. Expect:
 
-Most of these repos are open, messy, and evolving — just like real systems work.
+- 🔧 **Automation tools** — low-code flows, scripting (AutoHotkey, Power Automate, n8n)
+- 📊 **Ops-focused dashboards** — built with R, SQL, and open reporting frameworks
+- 🤖 **AI use case demos** — lightweight GPT-driven tools for municipal and frontline needs
+- 🚒 **Emergency services tools** — alerting, readiness, and reporting prototypes
+- 🧱 **Homelab + systems** — projects running on Proxmox, Docker, and GCP
 
 ---
 
-## 🔍 Featured Projects
-- [`n8n-ops-notifier`](https://github.com/supersonic04/n8n-fire-notifier) – alerts and automated workflows for frontline updates  
-  
-More coming soon.
+## 🌟 Featured Projects
+
+- [`n8n-ops-notifier`](https://github.com/supersonic04/n8n-ops-notifier)  
+  Ops alert automation for frontline, logistics, or safety teams.
+
+More coming soon — including Sheets-driven dashboards, system monitors, and AI pilots.
 
 ---
 
 ## 📫 Let’s Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/praveen-soni-ai)  
-- 🌍 [Emberlytic](https://emberlytic.com)  
-- ✉️ Open to collaboration, feedback, or coffee-chat invites.
+
+- 💼 [LinkedIn](https://linkedin.com/in/praveen-soni-ai)  
+- 🌐 [Emberlytic](https://emberlytic.com)  
+- ☕ Always open to feedback, collaboration, or a coffee-chat
 
 ---
 
-_Systems thinker. Problem solver. Builder of quiet tools that make work easier._
+_Systems thinker. Quiet builder. Always solving for clarity, not complexity._
