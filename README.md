@@ -1,25 +1,33 @@
 # Praveen Soni
 
-Builder focused on AI automation, data pipelines, and workflow systems.
+AI engineer building retrieval, automation, and data pipeline systems -- with domain depth in public safety and emergency systems analytics (CAD/RMS data processing, spatial analysis, response time modeling).
 
-Founder of [Emberlytic](https://emberlytic.com) -- an AI automation firm that builds and deploys working systems for operations-heavy businesses. Client-facing portfolio and project work lives at [github.com/emberlytic](https://github.com/emberlytic).
+Also run [Emberlytic](https://emberlytic.com), an independent AI automation consulting practice, based in Edmonton, AB.
+
+---
+
+## Projects
+
+**RAG / LLM pipelines**
+
+| Project | What it does | Stack |
+|---|---|---|
+| [rag-document-assistant](https://github.com/emberlytic/rag-document-assistant) | Hybrid BM25 + vector retrieval RAG system with enforced citations and a swappable LLM backend (Claude / OpenAI / Gemini / local Ollama) | Python, ChromaDB, sentence-transformers, FastAPI |
+| [narrative-cause-extraction](https://github.com/emberlytic/narrative-cause-extraction) | Extracts confirmed/probable cause and confidence from free-text investigation reports at scale | Python, Claude/OpenAI API |
+| [scanned-form-extractor](https://github.com/emberlytic/scanned-form-extractor) | OCR + LLM pipeline converting scanned paper forms into structured JSON | Python, Tesseract, pdf2image, Streamlit |
+| [form-response-qa](https://github.com/emberlytic/form-response-qa) | Flags inconsistencies between structured form fields and free-text narratives for supervisor review | Python, Claude/OpenAI API |
+
+**Public safety / spatial**
+
+More projects coming soon.
 
 ---
 
-## What's Here
+## Stack
 
-This is the personal lab. Work in progress, experiments, and homelab tooling.
-
-- Homelab automation (Proxmox, Docker, Ansible, self-hosted services)
-- n8n workflow snippets and prototypes
-- Python scripts and data experiments
-- Infrastructure tools
-
-For finished portfolio projects, see [github.com/emberlytic](https://github.com/emberlytic).
-
----
+Python · LLM APIs (Claude, OpenAI) · RAG & retrieval systems · PostgreSQL / PostGIS · n8n · Docker
 
 ## Connect
 
-- [emberlytic.com](https://emberlytic.com)
 - [LinkedIn](https://linkedin.com/in/praveen-soni-ai)
+- [emberlytic.com](https://emberlytic.com)
